@@ -1,9 +1,7 @@
 name: Build app
 on: 
   workflow_dispatch:
-    inputs:
-      branch:
-        description: "Inserisci il nome della branch"
+    
       
 
 jobs: 
